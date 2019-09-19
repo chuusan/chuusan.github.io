@@ -5,6 +5,6 @@ title: Probability and Statistics!
 
 Welcome to this class.
 
-![_config.yml]({{https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png}}/images/config.png)
+![alt-text]( https://brand.ubc.ca/files/2018/09/1FullLogo_ex_768.png)
 
 The class is very good.
