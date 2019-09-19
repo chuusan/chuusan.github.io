@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am a candidate of Master of Data Science at UBC.
 
 ### More Information
 
