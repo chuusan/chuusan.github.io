@@ -16,11 +16,11 @@ To better learn the performance of these batteries, you need to mention the diff
 Apparently, we can use the following formula to measure the difference?
 
 
-<div style="text-align: center"> <font color="blue"> <font size =5%> E{|X-E(X)|} </div>
+ E{|X-E(X)|}
 
 But this equation contains absolute value computation, it is inconvenient for our calculation. So we transform it:
     
-<div style="text-align: center"> <font color="blue"> <font size =5%> Var(X) = E{ [X-E(X)]<sup>2</sup> } </div>
+ Var(X) = E{ [X-E(X)]}
 
 
 This is what we called `Variance`. Informally, it measures **how far** a set of (random) numbers are spread out from their **average value**. ([wikipedia](https://en.wikipedia.org/wiki/Variance))
