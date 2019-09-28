@@ -22,7 +22,9 @@ But this equation contains absolute value computation, it is inconvenient for ou
  Var(X) = E{ [X-E(X)]}
 
 
-This is what we called `Variance`. Informally, it measures **how far** a set of (random) numbers are spread out from their **average value**. ([wikipedia](https://en.wikipedia.org/wiki/Variance))
+This is what we called `Variance`. 
+
+< "Informally, it measures **how far** a set of (random) numbers are spread out from their **average value**." ([wikipedia](https://en.wikipedia.org/wiki/Variance))
 
 ### Definition 
 
@@ -41,8 +43,8 @@ Suppose an individual plays a gambling game where it is possible to lose \$1.00,
 
 _[Source](http://www.stat.yale.edu/Courses/1997-98/101/rvmnvar.htm)_
 
-$E(X)= -1*0.3 + 0* 0.4 + 3+0.2 +5*0.1$
+E(X)= -1*0.3 + 0* 0.4 + 3+0.2 +5*0.1
 
-$Var(X)= (-1-0.8)^2*0.3 + (0-0.8)^2*0.4 +(3-0.8)^2*0.2 +(5-0.8)^2*0.1 =3.960$
+Var(X)= (-1-0.8)^2*0.3 + (0-0.8)^2*0.4 +(3-0.8)^2*0.2 +(5-0.8)^2*0.1 =3.960
 
 Since there is not a very large range of possible values, the variance is small.
