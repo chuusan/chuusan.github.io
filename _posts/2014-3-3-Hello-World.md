@@ -11,10 +11,9 @@ On your first day of work, you are asked to submit a report regarding the batter
 
 - _It is also possible that about half of these batteries have a good performance of about 1300 days, however, the half left only have a lifespan of approximately 700 days._
 
-To better learn the performance of these batteries, you need to mention the difference between the lifespan $L$ and the average lifespan $E(X)=1000$ in your report. But here comes the question. "How can you measure the difference?"
+To better learn the performance of these batteries, you need to mention the difference between the lifespan of each battery L and the average lifespan of these batteries E(X)=1000 in your report. But here comes the question. "How can you measure the difference?"
 
 Apparently, we can use the following formula to measure the difference?
-
 
  E{|X-E(X)|}
 
@@ -29,7 +28,7 @@ This is what we called `Variance`. Informally, it measures **how far** a set of 
 
 The `variance` of a discrete random variable X measures the spread, or variability, of the distribution, and is defined by
 
-$Var(X)= \sum(X_i - \bar X) ^2 P_i$
+Var(X)= Σ(X_i - \bar X) ^2 P_i
 
 ### Example:
 
