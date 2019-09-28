@@ -37,12 +37,9 @@ $Var(X)= \sum(X_i - \bar X) ^2 P_i$
 Suppose an individual plays a gambling game where it is possible to lose \$1.00, break even, win \$3.00, or win \$10.00 each time she plays. The probability distribution for each outcome is provided by the following table:
 
 
-
-
 | Outcome     | -  1|   0|   3|   5|
 |-------------|:----|:--:|:--:|---:|
 | Probability | 0.3 |0.4 | 0.2| 0.1|
-
 
 _[Source](http://www.stat.yale.edu/Courses/1997-98/101/rvmnvar.htm)_
 
