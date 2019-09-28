@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Probability and Statistics!
+title: A Brief Introduction to Variance
 ---
 
-Welcome to this class.
-Probability is the measure of the likelihood that an event will occur in a Random Experiment. Probability is quantified as a number between 0 and 1, where, loosely speaking, 0 indicates impossibility and 1 indicates certainty. The higher the probability of an event, the more likely it is that the event will occur.
+To help you learn better about the `variance`. I find you a job at an Apple battery supplier (btw you are welcome!), Your job is to test the battery lifespan. 
 
-![alt-text]( https://brand.ubc.ca/files/2018/09/1FullLogo_ex_768.png)
+On your first day of work, you are asked to submit a report regarding the batteries' lifespan for their newest iPad. Your manager told you that the average lifespan of these batteries is 1000 days $E(X)=1000$. One of your colleague thinks that the mean value is sufficient for your report. But actually:
 
-Follow me to discover a different world!
+- _It is possible that the majority of the batteries have a lifespan between 950 days and 1050 days._
+
+- _It is also possible that about half of these batteries have a good performance of about 1300 days, however, the half left only have a lifespan of approximately 700 days._
+
+To better learn the performance of these batteries, you need to mention the difference between the lifespan $L$ and the average lifespan $E(X)=1000$ in your report. But here comes the question. "How can you measure the difference?"
